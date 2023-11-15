@@ -11,7 +11,13 @@ footer ul li{
 
 
 .photo{
-    width:100%;
+    width:200px;
+
+}
+
+#logo1_1{
+    width:180px
+   
 
 }
 #small{
@@ -61,7 +67,7 @@ footer ul li{
 }
 
 .img-fluid_float-left{
-    height:100%;
+    height:200px;
 }
 
 .conftitle{
